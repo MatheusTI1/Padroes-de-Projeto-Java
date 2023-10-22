@@ -1,4 +1,4 @@
-package Singleton;
+package SingletonVideoAula;
 
 public class SingletonEager {
     //Singleton "apressado"

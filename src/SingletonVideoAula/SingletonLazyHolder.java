@@ -1,4 +1,4 @@
-package Singleton;
+package SingletonVideoAula;
 
 public class SingletonLazyHolder {
     //Singleton "Lazy Holder"

@@ -1,4 +1,4 @@
-package Singleton;
+package SingletonVideoAula;
 
 public class ValidandoSingleton {
     public static void main(String[] args) {
